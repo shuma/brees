@@ -185,9 +185,6 @@ export default class Column extends React.Component {
                   </FormGroup>
                 </Col>
               </Row>
-              <Button size="lg" block className="btn-success" type="submit">
-                Lägg till
-              </Button>
             </Form>
           </ModalBody>
           <ModalFooter>

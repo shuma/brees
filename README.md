@@ -5,4 +5,3 @@ Install JSON Server globally: npm install -g json-server
 
 Install npm dependencies: npm install
 Run web app: npm run start
-g
