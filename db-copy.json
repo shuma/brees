@@ -1,0 +1,39 @@
+{
+  "candidates": {
+    "candidate-1": {
+      "id": "candidate-1",
+      "name": "Usman Rajab",
+      "age": "21",
+      "email": "usman.rajab@tretton37.com",
+      "image": "someimage"
+    }
+  },
+  "columns": {
+    "column-1": {
+      "id": "column-1",
+      "title": "Kontakt",
+      "taskIds": ["candidate-1"]
+    },
+    "column-2": {
+      "id": "column-2",
+      "title": "Dialog",
+      "taskIds": []
+    },
+    "column-3": {
+      "id": "column-3",
+      "title": "Intervju",
+      "taskIds": []
+    },
+    "column-4": {
+      "id": "column-4",
+      "title": "Erbjudande",
+      "taskIds": []
+    },
+    "column-5": {
+      "id": "column-5",
+      "title": "Avslutad",
+      "taskIds": []
+    }
+  },
+  "columnOrder": ["column-1", "column-2", "column-3", "column-4", "column-5"]
+}

@@ -1,0 +1,53 @@
+{
+  "candidates": {
+    "candidate-1": {
+      "id": "candidate-1",
+      "name": "Usman Rajab",
+      "age": "31",
+      "email": "usman.rajab@tretton37.com",
+      "image": "someimage"
+    },
+    "candidate-2": {
+      "id": "candidate-2",
+      "name": "Linnea Börjesson",
+      "age": "29",
+      "email": "linnea.borjesson@digitalent.se",
+      "image": "someimage"
+    },
+    "candidate-3": {
+      "id": "candidate-3",
+      "name": "Erik Bleckhorns",
+      "age": "35",
+      "email": "erik.bleckhorns@digitalent.se",
+      "image": "someimage"
+    }
+  },
+  "columns": {
+    "column-1": {
+      "id": "column-1",
+      "title": "Kontakt",
+      "taskIds": ["candidate-1", "candidate-2", "candidate-3"]
+    },
+    "column-2": {
+      "id": "column-2",
+      "title": "Dialog",
+      "taskIds": []
+    },
+    "column-3": {
+      "id": "column-3",
+      "title": "Intervju",
+      "taskIds": []
+    },
+    "column-4": {
+      "id": "column-4",
+      "title": "Erbjudande",
+      "taskIds": []
+    },
+    "column-5": {
+      "id": "column-5",
+      "title": "Avslutad",
+      "taskIds": []
+    }
+  },
+  "columnOrder": ["column-1", "column-2", "column-3", "column-4", "column-5"]
+}
